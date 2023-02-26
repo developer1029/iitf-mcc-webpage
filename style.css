@@ -1,0 +1,41 @@
+header div a img {
+    width: 5vw;
+}
+
+#container {
+    overflow: scroll;
+}
+
+.svg-icon, .menu:hover {
+    color: rgb(65, 0, 216);
+}
+
+#btn1 {
+    background-color: rgb(65, 0, 216);
+}
+
+#btn1:hover {
+    background-color: rgb(43, 0, 145);
+}
+
+.login-button:hover {
+    transition: all .5s ease;
+    background-color: rgb(65, 0, 216);
+    color: white;
+}
+
+.facebook:hover {
+    color: #1778f2;
+}
+
+.twitter:hover {
+    color: #00d9ff;
+}
+
+.instagram:hover {
+    color: #d62976;
+}
+
+.linkedin:hover {
+    color: #0e76a8;
+}
