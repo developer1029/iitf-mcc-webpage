@@ -6,7 +6,7 @@ header div a img {
     overflow: scroll;
 }
 
-.svg-icon, .menu:hover {
+header div nav a .menu:hover {
     color: rgb(65, 0, 216);
 }
 
@@ -18,7 +18,7 @@ header div a img {
     background-color: rgb(43, 0, 145);
 }
 
-.login-button:hover {
+#login-button:hover {
     transition: all .5s ease;
     background-color: rgb(65, 0, 216);
     color: white;
